@@ -6,6 +6,8 @@ function setup() {
     // noStroke();
 
     rectMode(CENTER); // draw rectangles using coordinates as center
+
+    // changing file lol
 }
 
 function draw() {
